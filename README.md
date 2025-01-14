@@ -1,1 +1,1 @@
-# rocket-telemetry-visualization
+# Rocket Telemetry Visualization
