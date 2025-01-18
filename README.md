@@ -61,6 +61,24 @@ This project simulates real-time rocket telemetry data generation, anomaly detec
        - ```python3 visualise_telemetry_data.py```
     
    - Navigate to ```http://127.0.0.1:8050/ ``` to visualize the results.
+ 
+
+5. **Results**
+   - Altitude v/s time graph:
+      ![Screenshot_2025-01-18_15-47-17 (copy 1)](https://github.com/user-attachments/assets/9445ecc3-9c95-4fd1-bab0-383a54be2b4d)
+
+   - Velocity v/s time graph:
+      ![Screenshot_2025-01-18_15-47-17 (copy 2)](https://github.com/user-attachments/assets/918c834e-1f62-4b0b-89b3-622a30a75492)
+
+   - Acceleration v/s time graph:
+      ![Screenshot_2025-01-18_15-48-29 (copy 1)](https://github.com/user-attachments/assets/2757e768-3da9-4ffe-bffc-2c259101da8e)
+
+   - Dashboard: 
+      ![Screenshot_2025-01-18_15-48-29 (copy 2)](https://github.com/user-attachments/assets/11e88af7-6911-46b6-b8ec-b1adce76f727)
+
+     
+
+     
 ---
 
 ## Future Enhancements
